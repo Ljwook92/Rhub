@@ -12,9 +12,13 @@ navbar:
     - text: "Study"
       menu: 
         - text: "Data Mining"
-        - href: Study.html
+          href: Study.html
+        - text: "Text Mining"
+          href: Textmining-part1.html
     - text: "About"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/Ljwook92/Rhub  
 output:
   distill::distill_article:
     css: styles.css
