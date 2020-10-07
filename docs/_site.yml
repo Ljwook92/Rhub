@@ -13,6 +13,8 @@ navbar:
       menu: 
         - text: "Data Mining"
           href: Study.html
+        - text: "Cross validation and out of bag"
+          href: Cross-validation-and-out-of-bag.html
         - text: "Text Mining"
           href: Textmining-part1.html
     - text: "About"

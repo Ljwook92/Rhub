@@ -5,6 +5,15 @@ description: |
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
 ```
 
+| Author       | Identity    | Job              | Major       |
+|--            | :-          | ---              | :------:    |
+|Jungin Seo    | Ph.D        | Professor        | Statistics  |
+|Jeongwook Lee | Master      | Graduate Student | Statistics  |
+|YeongEun Jeon | PhD student | Graduate Student | Statistics  |           
