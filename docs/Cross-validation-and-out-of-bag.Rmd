@@ -1,17 +1,14 @@
 ---
 title: "Cross Validation and Out-of-Bag"
-output: 
-  html_document: 
-    theme: flatly
-    toc: yes
-    toc_float: yes
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Jungin Seo 
+  - name: Jeongwook Lee
+  - name: YeongEun Jeon   
+
+date: "`r Sys.Date()`"
 ---
-
-<span style="color:blue">**By Yeong Eun Jeon, Jeongwook Lee and Jung In Seo**</span>
-
-
-<span style="color:purple">Version : R-4.0.2</span>
-
 
 > 예제로 사용될 데이터는 R에 내장되어 있는 "SPAM" 데이터이다.  미국 캘리포니아 Pal Alto 지역에서 우체국, 개개인으로 부터 spam mail 수집하였는데, 여기서 spam mial은 수신자의 의사와 상관없이 전송되는 불필요한 광고성 e-mail이다. e-mail에 포함된  단어, 특수문자, 대문자 빈도로 spam mail 분류하였으며, 총 4601개의 관측치와 58개의 변수 데이터로 이루어져 있다.
 
