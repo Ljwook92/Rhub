@@ -5,12 +5,7 @@ description: |
   단순히 웹 크롤링에서 멈추는게 아니고 더 나아가 텍스트 마이닝을 통해 직관적으로 알 수 없는 정보까지 알기 쉽다.
 author:
   - name: Jung In Seo
-    url: http://home.dju.ac.kr/bigdata/professor/professor_04.htm
-    affiliation: Department of Big Data
-    affiliation_url: http://home.dju.ac.kr/bigdata/
   - name : JeongWook Lee
-    affiliation: Department of Big Data
-    affiliation_url: http://home.dju.ac.kr/bigdata/
 date: 12-04-2019
 output:
   distill::distill_article:
