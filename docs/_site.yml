@@ -6,6 +6,9 @@ repository_url: https://github.com/Ljwook92/Rhub
 creative_commons: CC BY
 output_dir: "."
 navbar:
+  logo:
+    image: images/favicon.png
+    href : https://Ljwook92.github.io/Rhub
   right:
     - text: "Home"
       href: index.html  
