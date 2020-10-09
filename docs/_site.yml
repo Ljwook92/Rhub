@@ -7,7 +7,7 @@ creative_commons: CC BY
 output_dir: "."
 navbar:
   logo:
-    image: images/favicon.png
+    image: images/logo.png
     href : https://Ljwook92.github.io/Rhub
   right:
     - text: "Home"
