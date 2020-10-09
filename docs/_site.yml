@@ -8,8 +8,8 @@ output_dir: "."
 navbar:
   logo:
     image: images/logo.png
-    href : https://Ljwook92.github.io/Rhub
-  source_url: true    
+    href: https://Ljwook92.github.io/Rhub
+  source_url: true   
   right:
     - text: "Home"
       href: index.html  
