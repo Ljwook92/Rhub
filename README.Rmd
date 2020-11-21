@@ -1,6 +1,7 @@
-## title: R blog with distill
+-title: R blog with distill-
 
-### Getting Started
+
+Getting Started
 
 Web publishing format here:
 
