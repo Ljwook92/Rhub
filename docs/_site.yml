@@ -24,6 +24,8 @@ navbar:
           href: Textmining-part1.html
     - text: "About"
       href: about.html
+    - text: "Statistics"  
+      href: Statistics.html
     - icon: fab fa-github
       href: https://github.com/Ljwook92/Rhub  
 output:
